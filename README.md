@@ -8,6 +8,13 @@ Este projeto foi desenvolvido em 2013~2014 e permaneceu em desenvolvimento de ma
 ## Contribuições
 Para contribuir publicamente com este projeto, crie um fork do repositório e abra um Pull Request descrevendo a modificação efetuada.
 
+## Obtendo o projeto
+### Código-fonte
+Clone o repositório utilizando o aplicativo **Github Desktop**. Evite baixar o código por ZIP uma vez de que O VB6 possui problemas quanto á codificação após a compressão de arquivos.
+
+### Jogo compilado
+Baixe uma versão oficial da página de **Releases** do repositório.
+
 ## Estrutura do projeto
 ### Cliente
 O cliente se encontra na pasta "Cliente" e possui duas versões, sendo elas: Cliente e Suite. O cliente possui toda a experiência de jogo para os jogadores, enquanto o Suite permite uma experiência limitada de jogo para administração/desenvolvimento interno do jogo.
