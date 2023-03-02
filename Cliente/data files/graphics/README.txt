@@ -1,0 +1,1 @@
+Os gráficos inclusos nesta versão são somente para demonstração e não possuem nenhuma relação com o projeto Universo Z.
