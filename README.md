@@ -18,6 +18,23 @@ O servidor se encontra na pasta "Servidor" e possui acesso ao WebService que per
 ### Utilitários
 Nesta seção é possível ter acesso aos utilitários e seus respectivos códigos-fonte. Entre eles estão o serviço de criptografia de gráficos, driver de conexão com MySQL, arquivos necessários, editor de multilinguagem, conector do WebService e editor manual de personagem. 
 
+## Utilização
+- Abra o servidor localizado em Servidor/Universo Z Server.exe
+- Abra o WebManager.exe
+- Clique em Comandos > Add Manual
+- Preencha os campos e crie uma nova conta
+- Abra o jogo em Cliente/Universo Z.exe
+- Acesse a conta com a credenciais preenchidas no WebManager
+- Crie seu personagem
+- Feche o jogo
+- Abra o editor de personagem em Servidor/Editor de Personagens.exe
+- Insira o nome da sua conta no campo e clique em Carregar
+- Altere o acesso para 15
+- Clique em salvar
+- Abra o editor em Cliente/Universo Z Suite.exe
+- Acesse sua conta
+- Edite o jogo como preferir
+
 ## Licença
 Este projeto acompanha as regras da licença MIT: https://pt.wikipedia.org/wiki/Licença_MIT  
 Para a distribuição com fins lucrativos á partir deste, é **obrigatório a adição dos devidos créditos** ao repositório do projeto e seus respectivos criadores.
