@@ -1,0 +1,23 @@
+Cliente/data files/graphics/
+Cliente/data files/logs/
+Cliente/data files/maps/
+Cliente/src/*.log
+Cliente/devsrc/*.log
+Cliente/*.exe
+Servidor/*.exe
+Servidor/recents.ini
+Servidor/src/*.log
+Servidor/Data/Accounts/
+Servidor/Data/Animations/
+Servidor/Data/Banks/
+Servidor/Data/effects/
+Servidor/Data/events/
+Servidor/Data/guilds/
+Servidor/Data/items/
+Servidor/Data/logs/
+Servidor/Data/maps/
+Servidor/Data/npcs/
+Servidor/Data/quests/
+Servidor/Data/resources/
+Servidor/Data/shops/
+Servidor/Data/spells/

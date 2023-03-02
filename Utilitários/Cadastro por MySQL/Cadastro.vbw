@@ -1,0 +1,5 @@
+frmPainel = 50, 50, 969, 583, C, 25, 25, 944, 558, C
+modGeneral = 75, 75, 994, 608, C
+ModINI = 78, 78, 947, 520, 
+modDatabase = 200, 200, 1119, 733, 
+modPlayerData = 0, 0, 0, 0, C

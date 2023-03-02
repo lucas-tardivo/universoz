@@ -1,0 +1,1 @@
+Este serviço é utilizado para instalar os arquivos necessários (e deprecados do VB6) para a execução do jogo.
