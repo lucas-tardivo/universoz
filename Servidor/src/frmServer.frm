@@ -58,9 +58,12 @@ Begin VB.Form frmServer
       TabCaption(0)   =   "Player list"
       TabPicture(0)   =   "frmServer.frx":1708A
       Tab(0).ControlEnabled=   0   'False
-      Tab(0).Control(0)=   "Frame1"
+      Tab(0).Control(0)=   "Image1"
+      Tab(0).Control(0).Enabled=   0   'False
       Tab(0).Control(1)=   "lvwInfo"
-      Tab(0).Control(2)=   "Image1"
+      Tab(0).Control(1).Enabled=   0   'False
+      Tab(0).Control(2)=   "Frame1"
+      Tab(0).Control(2).Enabled=   0   'False
       Tab(0).ControlCount=   3
       TabCaption(1)   =   "Log"
       TabPicture(1)   =   "frmServer.frx":170A6
@@ -1385,17 +1388,6 @@ Private Sub mnuKill_Click()
 
     If IsPlaying(Name) Then
         Call KillPlayer(Name)
-    End If
-End Sub
-
-Private Sub mnuVIP_Click()
-    Dim Name As Long
-    Name = frmServer.lvwInfo.SelectedItem.Index
-
-    If IsPlaying(Name) Then
-        frmVIP.Show
-        frmVIP.txtName = GetPlayerName(frmServer.lvwInfo.SelectedItem.Index)
-        frmVIP.txtIndex = frmServer.lvwInfo.SelectedItem.Index
     End If
 End Sub
 

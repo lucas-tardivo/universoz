@@ -18,7 +18,6 @@ Module=modPlayer; Src\modPlayer.bas
 Class=clsBuffer; Src\clsBuffer.cls
 Module=modCombat; src\modCombat.bas
 Module=modCustomScripts; src\modCustomScripts.bas
-Form=src\frmVIP.frm
 Module=modEvent; src\modEvent.bas
 Module=modMultilanguage; src\modMultilanguage.bas
 Module=modEspacial; src\modEspacial.bas
