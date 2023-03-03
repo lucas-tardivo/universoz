@@ -48,44 +48,45 @@ Para a distribuição com fins lucrativos á partir deste, é **obrigatório a a
 
 ## Sistemas inclusos
 - DirectX 8
-- Gráficos criptografados
-- Animação com tremor na tela
-- Efeitos de transformação melhorada
-- Transformação com cabelos customizáveis
-- Kaioken (RGB automático)
-- Oozaru
-- Sistema de partículas
-- Efeito visuais de buracos na tela
-- Scouter com efeito visual
-- Movimento diagonal
-- Evolução de skills
-- Desafio diário
-- Efeito de tela de quase morte e flash de dano
-- Antihack integrado
 - Multiservidor
 - Multilinguagem
+- Antihack integrado
+- Sistema de efeitos com partículas
+- Cliente com menu animado e interativo
+- Editor de personagem completo
+- Evolução de skills
+- Shenlong
+- Casas pessoais
+- Conquistas
+- Quests
+- Pesca
+- Scouter
+- Voo com efeito flutuante e sombra
+- Customização de personagem
+- Movimento diagonal
+- Gráficos criptografados
+- Transportes dinâmicos (Barco e avião)
+- Animação com tremor na tela
+- Efeito visuais de buracos na tela
+- Desafio diário
+- Efeito de tela de quase morte e flash de dano
 - Títulos com ícones
 - Itens animados no inventário
 - Item com bonus de EXP temporário
-- Shenlong
-- Casas
-- Conquistas
-- Quests
-- Transportes dinâmicos (Barco e avião)
-- Pesca
 - VIP com evolução
-- Sistema de voo
-- Efeito flutuante de voo para jogadores e NPCs
-- Customização de personagem
-- Menu interativo com animação
 - 22 animações de personagem
 - Bonus diário
-- Máquina de gravidade para AFK
+- Máquina de gravidade AFK
 - Level de divindade (duas evoluções)
 - Eventos globais
 - Suporte in-game e feedbacks
 - Caixas surpresa com itens fixos ou aleatórios
-- Editor de personagem completo
+- Efeito de drop flutuante de itens
+- Efeitos de transformação melhorada
+- Transformações:
+  - Cabelos customizáveis para Super Sayajins
+  - Kaioken (RGB automático)
+  - Oozaru
 - Habilidades especiais
   - Invocação de lacaios
   - Chuva de meteoros
@@ -105,6 +106,7 @@ Para a distribuição com fins lucrativos á partir deste, é **obrigatório a a
 - Ambientação dos mapas
   - Animais (Pássaros, Morcegos e Gaivotas)
   - Nuvens
+- E mais...
 
 ## Créditos
 #### Programação
