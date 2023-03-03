@@ -43,7 +43,7 @@ Nesta seção é possível ter acesso aos utilitários e seus respectivos códig
 - Edite o jogo como preferir
 
 ## Licença
-Este projeto acompanha as regras da [![Licença MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://tldrlegal.com/license/mit-license)
+Este projeto acompanha as regras da Licença MIT: https://pt.wikipedia.org/wiki/Licença_MIT  
 Para a distribuição com fins lucrativos á partir deste, é **obrigatório a adição dos devidos créditos** ao repositório do projeto e seus respectivos criadores.
 
 ## Sistemas inclusos
