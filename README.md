@@ -42,6 +42,15 @@ Nesta seção é possível ter acesso aos utilitários e seus respectivos códig
 - Acesse sua conta
 - Edite o jogo como preferir
 
+## Encriptando a GFX
+- Abra o encriptador em Utilitários/Criptografia de GFX.exe
+- Habilite as opções "Compression" e "Encryption"
+- No campo "Key" digite a senha da GFX (Padrão: universoz)
+- No campo abaixo onde a extensão é requisitada, digite "uz"
+- Clique em Select/Convert BMPs e selecione os arquivos que deseja criptografar
+
+Obs: Para alterar a senha da GFX, altere o valor da constante GFX_PASSWORD no módulo modConstants (Cliente e Suite)
+
 ## Licença
 Este projeto acompanha as regras da Licença MIT: https://pt.wikipedia.org/wiki/Licença_MIT  
 Para a distribuição com fins lucrativos á partir deste, é **obrigatório a adição dos devidos créditos** ao repositório do projeto e seus respectivos criadores.
